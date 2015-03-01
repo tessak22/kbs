@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^lundelitterbag\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.lundelitterbag\.com$
+RewriteRule ^/?$ "http\:\/\/kbspecialtiesllc\.com\/lunde\-litter\-bag\/" [R=301,L]
+

@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Table Rate Shipping for WooCommerce\n"
+"POT-Creation-Date: 2014-12-04 21:44-0500\n"
+"PO-Revision-Date: 2014-12-04 21:55-0500\n"
+"Last-Translator: Bolder Elements <info@bolderelements.net>\n"
+"Language-Team: Bolder Elements <erica@bolderelements.net>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: woocommerce-table-rate-shipping\n"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:47
+msgid "Toggle featured"
+msgstr "切换功能"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:86
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:424
+msgid "Everywhere"
+msgstr "到处"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:91
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:137
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:172
+msgid "Except for"
+msgstr "以外"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:176
+msgid "Data Could Not Be Found"
+msgstr "数据无法找到"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:199
+msgid "Zone Title"
+msgstr "区标题"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:200
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:430
+msgid "Locations"
+msgstr "位置"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:201
+msgid "Status"
+msgstr "状态 "
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:223
+msgid "A zone with the ID provided does not exist"
+msgstr "所提供的ID一个区域不存在"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:228
+msgid "The zone titled <strong>"
+msgstr "题为区域的<strong>"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:295
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:2009
+msgid ""
+"Your zones have been updated. Please test your forms to ensure that "
+"everything is in working order."
+msgstr "您的区域已被更新。请测试形式，以确保一切都处于正常工作状态。"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:302
+msgid "The selected zone(s) have been deleted."
+msgstr "所选区域（多个）已被删除。"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:306
+msgid "An error has occurred and the selected zone(s) were not deleted."
+msgstr "发生了错误，并在选定的区域（S）没有被删除。"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:407
+msgid "Zone Details"
+msgstr "区域详细信息"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:410
+msgid "Enabled"
+msgstr "开启"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:414
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1254
+msgid "Title"
+msgstr "标题"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:418
+msgid "Description"
+msgstr "描述"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:422
+msgid "Type"
+msgstr "类型"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:425
+msgid "Countries / States"
+msgstr "国家/国"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:426
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:433
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:460
+msgid "Countries"
+msgstr "国家"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:437
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:538
+msgid "Except"
+msgstr "除外"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:439
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:462
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:483
+msgid "Choose countries / states&hellip;"
+msgstr "选择国家/国家中＆hellip;"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:481
+msgid "Except the States/Provinces"
+msgstr "除了州/省"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:503
+msgid "Except the Postal Codes"
+msgstr "除邮政代码"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:505
+msgid "is used to separate all postal code entries"
+msgstr "用于分隔所有邮政码条目"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:506
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:533
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:540
+msgid "is used to separate two postal codes in a range (numerical codes ONLY)"
+msgstr "用于分隔两个邮政码的范围（数值代码ONLY）"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:507
+msgid "is a wildcard used to represent multiple characters/numbers"
+msgstr "是通配符来表示多个字符/数字"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:508
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:535
+msgid "is used to denote postal codes or ranges to be excluded"
+msgstr "用于表示邮政编码或范围被排除"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:513
+msgid "Country"
+msgstr "国名"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:514
+msgid "Choose a country&hellip;"
+msgstr "选择一个国家中＆hellip;"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:531
+msgid "Postal Codes"
+msgstr "邮政编码"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:534
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:541
+msgid "is a wildcard used to representent multiple characters/numbers"
+msgstr "是通配符来representent多个字符/数字"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:586
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: woocommerce-table-rate-shipping/inc/zone-list-table.php:587
+msgid "You have taken too long. Please go back and retry."
+msgstr "你已经花费的时间太长。请返回重试。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:47
+msgid "Table Rate"
+msgstr "表率"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:48
+msgid "Table Rates"
+msgstr "价格表"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:49
+msgid ""
+"Table rate shipping allows you to set numerous rates based on location and "
+"specified conditions. Click the headlines below to expand or hide additional "
+"settings."
+msgstr ""
+"表率船允许您设置基于位置和规定的条件众多率。点击下面的标题来展开或隐藏其他设"
+"置。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:176
+msgid "General Settings"
+msgstr "常规设置"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:181
+msgid "Enable/Disable"
+msgstr "启用/禁用"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:183
+msgid "Enable this shipping method"
+msgstr "启用此送货方式"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:187
+msgid "Method Title"
+msgstr "法题目"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:190
+msgid "Shipping"
+msgstr "航运"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:193
+msgid "Tax Status"
+msgstr "税务状态"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:197
+msgid "Taxable"
+msgstr "应税"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:198
+msgid "None"
+msgstr "无"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:202
+msgid "Condition"
+msgstr "条件"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:206
+msgid "Per Order"
+msgstr "每个订单"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:207
+msgid "Per Item"
+msgstr "每个项目"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:208
+msgid "Per Class"
+msgstr "每类"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:212
+msgid "Free Shipping Override"
+msgstr "免费送货覆盖"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:217
+msgid "Free Shipping at"
+msgstr "免费送货的"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:219
+msgid ""
+"Minimum cost of ALL cart items to be eligible for free shipping. Leave blank "
+"to disable free shipping option"
+msgstr "ALL车项目成本最低可领取免费送货。留空将禁用免费送货选项"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:224
+msgid "Free Shipping Label"
+msgstr "免费送货标签"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:226
+msgid "Label to appear next to Free Shipping Option in cart/checkout pages"
+msgstr "标签旁边免费送货选项在车/结帐页面出现"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:230
+msgid "Add Free Shipping as Option"
+msgstr "加入免费送货的选项"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:232
+msgid ""
+"When checked, free shipping will be the only shipping cost, otherwise free "
+"shipping will be added as an option in addition to the table below"
+msgstr "勾选后，免费送货将是运输成本而已，否则免费送货将作为除下表的选项"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:236
+msgid "Tax Options"
+msgstr "税选项"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:241
+msgid "Include Tax"
+msgstr "包括税"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:243
+msgid "Calculate shipping based on prices AFTER tax"
+msgstr "基于税后价格计算运费"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:247
+msgid "Volumetric Shipping"
+msgstr "容积航运"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:252
+msgid "Enable Volumetric Comparison"
+msgstr "使体积比较"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:254
+msgid ""
+"When activated, plugin will determine if volumetric weight is heavier than "
+"weight given and charge shipping based on the higher amount"
+msgstr ""
+"当被激活时，插件将确定是否体积重量比重量给出和电荷航运较重基于所述更高量"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:258
+msgid "Volumetric Divisor"
+msgstr "容积除数"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:260
+msgid "This number can be found through your carrier's website"
+msgstr "这个数字可以通过运营商的网站上找到"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:264
+msgid "Miscellaneous Settings"
+msgstr "杂项设置"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:269
+msgid "Single Class Only"
+msgstr "只有单一类"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:271
+msgid ""
+"When enabled, only items of the highest priority shipping class will be "
+"counted towards the shipping cost"
+msgstr "当启用时，优先级最高的航运类的唯一项目将朝着运输成本计算在内"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:271
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:277
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:289
+msgid "(Per Class Method Only)"
+msgstr "（只有每类方法）"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:275
+msgid "Highest Costing Class"
+msgstr "最高成本核算类"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:277
+msgid ""
+"When enabled, the highest shipping cost from the per class calculations will "
+"be charged"
+msgstr "启用后，运输成本从每节课计算，最高将不收取费用"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:281
+msgid "No Fees on Free Shipping"
+msgstr "在免费送货不收费"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:283
+msgid "Do not add fees from Handling Fees table when shipping cost is Free"
+msgstr "不要从处理费用表中添加费时的运输成本是免费的"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:287
+msgid "Round Weight"
+msgstr "轮重"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:289
+msgid "Rounds weight value up to the next whole number"
+msgstr "回合权重值到下一个整数"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:293
+msgid "Hide This Method"
+msgstr "隐藏此方法"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:295
+msgid "Hide This Shipping Method When the Free Shipping Method is Available"
+msgstr "隐藏此配送方式当免费送货方法是可行的"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:299
+msgid "Maximum Shipping Cost"
+msgstr "最大运费"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:301
+msgid ""
+"The maximum shipping price a customer pays no matter what the table returns"
+msgstr "最大的海运价格客户支付无论什么表退货"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:305
+msgid "Shipping Cost Tables"
+msgstr "运费表"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1210
+msgid "Handling / Base Rates"
+msgstr "处理/基准利率"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1216
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1256
+msgid "Zone"
+msgstr "区域"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1216
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1256
+msgid "Setup and review zones under the 'Shipping Zones' tab"
+msgstr "在“航运区”选项卡下的设置和审查区"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1217
+msgid "Fee"
+msgstr "费用"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1217
+msgid ""
+"Adds the specified percentage of purchase total followed by the fixed fee"
+msgstr "增加了购买总计其次是固定费用的指定百分比"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1222
+msgid "+ Add Handling Fee"
+msgstr "+添加手续费"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1223
+msgid "Delete selected fees"
+msgstr "删除所选费"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1241
+msgid ""
+"Set different handling rates or base fees for different countries. These "
+"prices will be added to all qualifying orders."
+msgstr ""
+"设置不同的处理速度，或不同国家的基本费用。这些价格将被添加到所有符合条件的订"
+"单。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1248
+msgid "Shipping Table Rates"
+msgstr "船舶价格表"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1254
+msgid "This controls the title which the user sees during checkout"
+msgstr "它控制在结帐时，用户可以看到其标题"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1255
+msgid "Identifier"
+msgstr " {0}Identifier{/0}"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1255
+msgid ""
+"Separates which rates are combined and which become different options. If "
+"left blank, one will be generated."
+msgstr "分离其率相结合，并成为其不同的选项。如果留空，人们就会产生。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1257
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1331
+msgid "Shipping Class"
+msgstr "航运类"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1258
+msgid "Based On"
+msgstr "基于"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1259
+msgid "Min"
+msgstr "分钟"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1260
+msgid "Max"
+msgstr "驱动值"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1261
+msgid "Cost"
+msgstr "费用"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1261
+msgid ""
+" - Fixed Price&lt;br /&gt;% - Percentage of Cart Subtotal&lt;br /&gt;x - "
+"Multiply cost by quantity&lt;br /&gt;(does not apply to Per Item method)&lt;"
+"br /&gt;w - Multiply cost by weight&lt;br /&gt;D - Deny: the titled shipping "
+"rate will be removed"
+msgstr ""
+"- 固定价格＆LT; BR /＆GT;％ - 车小计＆LT的百分比; BR /＆GT; X  - 按数量和LT乘"
+"以成本; BR /＆GT;（不适用于每个项目的方法）LT; BR /＆GT;瓦特 - 通过乘法成本重"
+"量＆LT; BR /＆GT; d  - 拒绝：运费率的标题将被删除"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1262
+msgid "Bundle"
+msgstr "收藏包"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1262
+msgid ""
+"If supplied, charges cost up until quantity given. Then charges second price "
+"for this and every item after."
+msgstr "如果提供，费用成本，直到量给出。那么收费第二价格，这和以后每一个项目。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1263
+msgid "Default"
+msgstr "默认"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1263
+msgid ""
+"Check the box to set this option as the default selected choice on the cart "
+"page"
+msgstr "选中该复选框，设置这个选项为购物车页面上的默认选择的选择"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1268
+msgid "+ Add Table Rate"
+msgstr "+添加表率"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1269
+msgid "Use the wildcard symbol (*) to denote multiple regions"
+msgstr "使用通配符符号（*）来表示的多个区域"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1270
+msgid "Duplicate selected rates"
+msgstr "选择重复率"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1271
+msgid "Delete selected rates"
+msgstr "删除所选率"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1311
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1312
+msgid "n/a"
+msgstr "无"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1313
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1315
+msgid "0.00"
+msgstr "0.00"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1326
+msgid "Shipping Class Priorities"
+msgstr "航运类重点"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1332
+msgid "Priority"
+msgstr "优先级"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1333
+msgid "Exclude"
+msgstr "排除"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1338
+msgid ""
+"These priorities will be used to calculate the appropriate \"Per Order\" "
+"shipping price in the table above. When an order has items of different "
+"shipping classes, the one with the highest priority will be used."
+msgstr ""
+"这些优先事项将被用来计算表中相应的每笔订单出货价格上面。当订单都有不同的航运"
+"类项目，一个具有最高优先级将被使用。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1386
+msgid "Set the Order Shipping Options Will Appear"
+msgstr "设置的顺序运输选项将出现"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1389
+msgid "Shipping Cost Order"
+msgstr "运费订购"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1404
+msgid "Not seeing all of your options"
+msgstr "没有看到你的所有选择"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1404
+msgid "Refresh List"
+msgstr "刷新列表"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1481
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1503
+msgid "Delete the selected rates?"
+msgstr "删除选定的汇率？"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1917
+msgid ""
+"ATTENTION: Version 3.3 of the Table Rate Shipping plugin for WooCommerce "
+"introduced a new, more efficient way of storing zone information. You will "
+"need to update your system in order for the plugin to continue functioning "
+"properly."
+msgstr ""
+"注意：表速率航运插件WooCommerce的3.3版本引入了存储区域信息的一个新的，更有效"
+"的方式。你需要更新你的系统，以便插件继续正常工作。"
+
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1919
+#: woocommerce-table-rate-shipping/woocommerce-table-rate-shipping.php:1921
+msgid ""
+"ATTENTION: You have not defined any shipping zones for the WooCommerce Table "
+"Rate Shipping plugin. You must setup your zones before creating any rates in "
+"the shipping method's settings page."
+msgstr ""
+"注意：您还没有定义任何运输区的WooCommerce表速率航运插件。您必须设置您的区域航"
+"运法的设置页面创建任何率之前。"
